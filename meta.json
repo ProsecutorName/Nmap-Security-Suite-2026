@@ -1,0 +1,27 @@
+{
+  "repo": "nmap-security-suite-2026",
+  "product": "Nmap Security Suite 2026",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "network-tools",
+  "topics": [
+    "nmap-security-suite",
+    "nmap-desktop",
+    "nmap-windows",
+    "nmap-2026",
+    "packet-analysis",
+    "network-monitoring",
+    "traffic-inspection",
+    "protocol-analysis",
+    "security-audit",
+    "network-diagnostics",
+    "desktop-networking",
+    "windows-network-tools",
+    "port-scanning",
+    "wifi-analysis"
+  ],
+  "site": "zentool.art"
+}
